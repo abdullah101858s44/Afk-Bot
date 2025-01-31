@@ -1,4 +1,4 @@
-# Afk Bot
+# Afk Bost
 <p align="center"> 
     <img src="https://img.shields.io/github/issues/urfate/afk-bot">
     <img src="https://img.shields.io/github/forks/urfate/afk-bot">
