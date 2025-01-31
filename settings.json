@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "eliot4444.aternos.me",
+    "port": 42449,
     "version": "1.19.3"
   },
 
